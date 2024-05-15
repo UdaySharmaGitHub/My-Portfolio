@@ -28,12 +28,12 @@ import Contact from './pages/Contact/Contact.jsx'
 
 const router = createBrowserRouter(
   createRoutesFromElements(
-    <Route path='/' element={<App/>}>
-        <Route path='/' element={<About/>}/>
-        <Route path='/resume' element={<Resume/>}/>
-        <Route path='/blogs' element={<Blogs/>}/>
-        <Route path='/portfolio' element={<Portfolio/>}/>
-        <Route path='/contact' element={<Contact/> }/>
+    <Route path='/My-Portfolio/' element={<App/>}>
+        <Route path='/My-Portfolio/' element={<About/>}/>
+        <Route path='/My-Portfolio/resume' element={<Resume/>}/>
+        <Route path='/My-Portfolio/blogs' element={<Blogs/>}/>
+        <Route path='/My-Portfolio/portfolio' element={<Portfolio/>}/>
+        <Route path='/My-Portfolio/contact' element={<Contact/> }/>
     </Route>
   )
 )
