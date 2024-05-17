@@ -4,14 +4,14 @@ const Asides = () => {
     <aside className="sidebar">
         <div className="sidebar-info">
             <figure className="avatar-box">
-                <img src={"/images/ME.jpg"} 
+                <img src="images/ME.jpg" 
                  alt="Uday Sharma"
                  width="80"
                  />
             </figure>
             <div className="info-content">
-                <h1 className="name">Code With Uday</h1>
-                <p className="title">Front-End Developer</p>
+                <h1 className="name">Uday Sharma</h1>
+                <p className="title">Software Developer</p>
             </div>
 
             <button className="info_more-btn">

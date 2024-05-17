@@ -34,9 +34,9 @@ const About = () => {
   
       <section className="about-text">
         <p>
-          Im Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media.
-          I enjoy
-          turning complex problems into simple, beautiful and intuitive designs.
+        A dynamic Full Stack Developer eager to bring a fresh perspective,
+ adaptability, and enthusiasm to a dynamic team. I am working on upscaling
+ my skills by learning data science. 
         </p>
   
         <p>
